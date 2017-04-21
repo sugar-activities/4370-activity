@@ -1,0 +1,27 @@
+EXTINCIÓN:
+
+	El Juego ha terminado.
+
+	En tu habitat ya no hay cucarachas machos
+	o no hay cucarachas hembras por lo cual
+	no podrán reproducirse.
+
+	Tampoco hay ootecas en el habitat así que
+	no habrán más nacimientos.
+
+	Has perdido ya que las cucarachas se
+	extinguirán de tu hábitat.
+
+    En biología y ecología, extinción es la
+    desaparición de todos los miembros de una
+    especie o un grupo de taxones.
+
+    Se considera extinta a una especie a partir
+    del instante en que muere el último
+    individuo de esta.
+
+    En el caso de especies que se reproducen
+    sexualmente, la extinción es generalmente
+    inevitable cuando sólo queda un individuo
+    de la especie, o únicamente individuos
+    del mismo sexo.

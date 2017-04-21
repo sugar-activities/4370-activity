@@ -1,0 +1,7 @@
+[Activity]
+name = Bichos
+bundle_id = org.laptop.Bichos
+exec = sugar-activity SugarBichos.Bichos
+icon = Bichos
+activity_version = 2
+show_launcher = yes

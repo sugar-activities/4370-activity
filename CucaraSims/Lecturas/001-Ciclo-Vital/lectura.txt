@@ -1,0 +1,29 @@
+CICLO VITAL:
+
+	Han nacido nuevas cucarachas en el
+	habitat.
+
+	El ciclo vital de estos animales se
+	compone de tres fases:
+	    Huevo, Ninfa y Adulto.
+
+	Durante su vida, de aproximadamente un año
+	de duración, este animal cambiará varias
+	veces su exoesqueleto para crecer, hasta
+	llegar a adulto con un tamaño de tres a
+	veinticinco centímetros.
+
+	Se reproducirá varias veces poniendo estuches
+	llamados ootecas que pueden contener hasta
+	cuarenta huevos, y finalmente morirá
+	completando así su ciclo vital.
+
+	En este Juego debes proveer de agua y
+	alimento a tus cucarachas para que puedan
+	crecer, reproducirse y completar su
+	ciclo vital.
+
+	Cuando tengas muchas, algunas se irán hacia
+	otros hábitats y serán contabilizadas
+	como puntaje para ti por haberlas ayudado a
+	completar su ciclo exitosamente.

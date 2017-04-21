@@ -1,0 +1,17 @@
+{
+    "autores":[
+        [
+            "Flavio Danesse", 
+            "fdanesse@gmail.com"
+        ]
+    ], 
+    "categoria":"Game", 
+    "descripcion":"", 
+    "licencia":"GPL3", 
+    "main":"SugarBichos.py", 
+    "mimetypes":"", 
+    "nombre":"Bichos", 
+    "path":"/home/flavio/Descargas/Bichos.activity", 
+    "url":"", 
+    "version":"2.0.0"
+}
